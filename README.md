@@ -1,5 +1,7 @@
 # Airquality Lantern
 
+Build your own Airquality Lantern.
+
 ## BOM
 - 1x NODEMCU ESP-12E   https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5Y01U2&id=520415138322
 - 1x plantower pms3003 https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5Y01U2&id=524445086102
